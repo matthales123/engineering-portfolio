@@ -15,8 +15,6 @@ team and instructor attribution.
 - [Accelerator framework and vector-add example](https://github.com/matthales123/u55c-accel-framework)
 - [Local FPGA project web interface](https://github.com/matthales123/u55c-unified-webapp)
 
-Shared tooling: [FPGA verification tools](https://github.com/matthales123/fpga-verification-tools).
-
 ## Cornell coursework
 
 ### ECE5760 — Advanced Microcontrollers / FPGA

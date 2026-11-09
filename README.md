@@ -13,7 +13,6 @@ team and instructor attribution.
 - [Drum synthesis](https://github.com/matthales123/u55c-drum-synth)
 - [Car/truck CNN accelerator](https://github.com/matthales123/u55c-car-truck-cnn)
 - [Accelerator framework and vector-add example](https://github.com/matthales123/u55c-accel-framework)
-- [Local FPGA project web interface](https://github.com/matthales123/u55c-unified-webapp)
 
 ## Cornell coursework
 
